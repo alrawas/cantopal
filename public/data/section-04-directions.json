@@ -1,0 +1,62 @@
+[
+  {
+    "id": "p34",
+    "section": "section-04-directions",
+    "cantonese": "hai2 bin1 dou6?",
+    "english": "Where is it?"
+  },
+  {
+    "id": "p35",
+    "section": "section-04-directions",
+    "cantonese": "dim2 joeng2 heoi3 ...?",
+    "english": "How do I get to ...?"
+  },
+  {
+    "id": "p36",
+    "section": "section-04-directions",
+    "cantonese": "zo2 / jau6 / cin4 / hau6",
+    "english": "Left / Right / Front / Back"
+  },
+  {
+    "id": "p37",
+    "section": "section-04-directions",
+    "cantonese": "soeng5 / haa6",
+    "english": "Up / Down"
+  },
+  {
+    "id": "p38",
+    "section": "section-04-directions",
+    "cantonese": "zik1 zau2",
+    "english": "Go straight"
+  },
+  {
+    "id": "p39",
+    "section": "section-04-directions",
+    "cantonese": "zyun3 wan4",
+    "english": "Turn around / U-turn"
+  },
+  {
+    "id": "p40",
+    "section": "section-04-directions",
+    "cantonese": "hai2 go3 go3 zau6 hai6",
+    "english": "It's over there"
+  },
+  {
+    "id": "p41",
+    "section": "section-04-directions",
+    "cantonese": "gei2 yun4?",
+    "english": "How far is it?"
+  },
+  {
+    "id": "p42",
+    "section": "section-04-directions",
+    "cantonese": "saai3 zau2",
+    "english": "All the way straight"
+  },
+  {
+    "id": "p43",
+    "section": "section-04-directions",
+    "cantonese": "m4 goi1, hai2 ni1 dou6 ting4",
+    "english": "Please stop here"
+  }
+]

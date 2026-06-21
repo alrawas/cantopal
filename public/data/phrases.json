@@ -1,0 +1,1448 @@
+[
+  {
+    "id": "q01",
+    "section": "section-01-question-words",
+    "cantonese": "me1 je5?",
+    "english": "What?",
+    "chinese": "乜嘢？"
+  },
+  {
+    "id": "q02",
+    "section": "section-01-question-words",
+    "cantonese": "bin1 go3?",
+    "english": "Who?",
+    "chinese": "邊個？"
+  },
+  {
+    "id": "q03",
+    "section": "section-01-question-words",
+    "cantonese": "bin1 dou6?",
+    "english": "Where?",
+    "chinese": "邊度？"
+  },
+  {
+    "id": "q04",
+    "section": "section-01-question-words",
+    "cantonese": "gei2 si4?",
+    "english": "When?",
+    "chinese": "幾時？"
+  },
+  {
+    "id": "q05",
+    "section": "section-01-question-words",
+    "cantonese": "dim2 gaai2?",
+    "english": "Why?",
+    "chinese": "點解？"
+  },
+  {
+    "id": "q06",
+    "section": "section-01-question-words",
+    "cantonese": "dim2 joeng2? / dim2?",
+    "english": "How?",
+    "chinese": "點樣？/ 點？"
+  },
+  {
+    "id": "q07",
+    "section": "section-01-question-words",
+    "cantonese": "gei2 do1?",
+    "english": "How many / How much?",
+    "chinese": "幾多？"
+  },
+  {
+    "id": "q08",
+    "section": "section-01-question-words",
+    "cantonese": "hai6 m4 hai6?",
+    "english": "Is it? / Right? (tag question)",
+    "chinese": "係唔係？"
+  },
+  {
+    "id": "q09",
+    "section": "section-01-question-words",
+    "cantonese": "hou2 m4 hou2?",
+    "english": "Is it good? / Okay?",
+    "chinese": "好唔好？"
+  },
+  {
+    "id": "q10",
+    "section": "section-01-question-words",
+    "cantonese": "sik1 m4 sik1?",
+    "english": "Do you know? / Can you?",
+    "chinese": "識唔識？"
+  },
+  {
+    "id": "g01",
+    "section": "section-02-greetings",
+    "cantonese": "man5 si6 aa3?",
+    "english": "How are you? (formal)",
+    "chinese": "問事呀？"
+  },
+  {
+    "id": "g02",
+    "section": "section-02-greetings",
+    "cantonese": "nei5 hou2 maa3?",
+    "english": "How are you? (casual)",
+    "chinese": "你好嗎？"
+  },
+  {
+    "id": "g03",
+    "section": "section-02-greetings",
+    "cantonese": "hou2 ho2, nei5 ne1?",
+    "english": "I'm fine, and you?",
+    "chinese": "好好，你呢？"
+  },
+  {
+    "id": "g04",
+    "section": "section-02-greetings",
+    "cantonese": "m4 goi1 sai3",
+    "english": "No need to thank / Don't mention it",
+    "chinese": "唔該晒"
+  },
+  {
+    "id": "g05",
+    "section": "section-02-greetings",
+    "cantonese": "m4 hou2 ji3 si1, ngo5 zau6",
+    "english": "Sorry, I have to go",
+    "chinese": "唔好意思，我走"
+  },
+  {
+    "id": "g06",
+    "section": "section-02-greetings",
+    "cantonese": "jing4 m4 jing4?",
+    "english": "Is that right? / Really?",
+    "chinese": "係咪？"
+  },
+  {
+    "id": "g07",
+    "section": "section-02-greetings",
+    "cantonese": "hai6 aa3",
+    "english": "Yes (soft/confirming)",
+    "chinese": "係呀"
+  },
+  {
+    "id": "g08",
+    "section": "section-02-greetings",
+    "cantonese": "m4 hai6 aa3",
+    "english": "No (soft/denying)",
+    "chinese": "唔係呀"
+  },
+  {
+    "id": "g09",
+    "section": "section-02-greetings",
+    "cantonese": "hai6 laa1",
+    "english": "Yes! (emphatic)",
+    "chinese": "係啦"
+  },
+  {
+    "id": "g10",
+    "section": "section-02-greetings",
+    "cantonese": "m4 goi1, ci4 di1 gin3",
+    "english": "Thank you, see you later",
+    "chinese": "唔該，遲啲見"
+  },
+  {
+    "id": "f01",
+    "section": "section-03-food",
+    "cantonese": "ngo5 soeng2 dim2 caan1",
+    "english": "I'd like to order",
+    "chinese": "我想點餐"
+  },
+  {
+    "id": "f02",
+    "section": "section-03-food",
+    "cantonese": "lei5 soeng2 sik6 me1 je5?",
+    "english": "What would you like to eat?",
+    "chinese": "你想食乜嘢？"
+  },
+  {
+    "id": "f03",
+    "section": "section-03-food",
+    "cantonese": "jam2 me1 je5?",
+    "english": "What would you like to drink?",
+    "chinese": "飲乜嘢？"
+  },
+  {
+    "id": "f04",
+    "section": "section-03-food",
+    "cantonese": "m4 goi1, beng2 caa4",
+    "english": "Iced milk tea, please",
+    "chinese": "唔該，凍奶茶"
+  },
+  {
+    "id": "f05",
+    "section": "section-03-food",
+    "cantonese": "jat1 bui1 kei4 ze2 lai4",
+    "english": "One cup of lemon tea",
+    "chinese": "一杯檸檬茶"
+  },
+  {
+    "id": "f06",
+    "section": "section-03-food",
+    "cantonese": "siu2 tim1",
+    "english": "Less sugar",
+    "chinese": "少甜"
+  },
+  {
+    "id": "f07",
+    "section": "section-03-food",
+    "cantonese": "siu2 bing1",
+    "english": "Less ice",
+    "chinese": "少冰"
+  },
+  {
+    "id": "f08",
+    "section": "section-03-food",
+    "cantonese": "m4 goi1, m4 jiu3 lau4",
+    "english": "No MSG, please",
+    "chinese": "唔該，唔要味精"
+  },
+  {
+    "id": "f09",
+    "section": "section-03-food",
+    "cantonese": "hai2 bin1 dou6 maai4 daan1?",
+    "english": "Where do I pay?",
+    "chinese": "喺邊度埋單？"
+  },
+  {
+    "id": "f10",
+    "section": "section-03-food",
+    "cantonese": "ho2 m4 ho2 ji3 daa2 baau1?",
+    "english": "Can I get this to go?",
+    "chinese": "可唔可以打包？"
+  },
+  {
+    "id": "f11",
+    "section": "section-03-food",
+    "cantonese": "ngo5 ji6 ging1 sik6 baau2 zo2",
+    "english": "I'm already full",
+    "chinese": "我已經食飽咗"
+  },
+  {
+    "id": "f12",
+    "section": "section-03-food",
+    "cantonese": "hou2 mei5 aa3!",
+    "english": "So delicious!",
+    "chinese": "好味呀！"
+  },
+  {
+    "id": "f13",
+    "section": "section-03-food",
+    "cantonese": "m4 hai6 hou2 ho2 mei5",
+    "english": "Not very tasty",
+    "chinese": "唔係好好味"
+  },
+  {
+    "id": "d01",
+    "section": "section-04-directions",
+    "cantonese": "hai2 bin1 dou6?",
+    "english": "Where is it?",
+    "chinese": "喺邊度？"
+  },
+  {
+    "id": "d02",
+    "section": "section-04-directions",
+    "cantonese": "dim2 joeng2 heoi3 ...?",
+    "english": "How do I get to ...?",
+    "chinese": "點樣去...？"
+  },
+  {
+    "id": "d03",
+    "section": "section-04-directions",
+    "cantonese": "zo2 / jau6 / cin4 / hau6",
+    "english": "Left / Right / Front / Back",
+    "chinese": "左/右/前/後"
+  },
+  {
+    "id": "d04",
+    "section": "section-04-directions",
+    "cantonese": "soeng5 / haa6",
+    "english": "Up / Down",
+    "chinese": "上/下"
+  },
+  {
+    "id": "d05",
+    "section": "section-04-directions",
+    "cantonese": "zik1 zau2",
+    "english": "Go straight",
+    "chinese": "直行"
+  },
+  {
+    "id": "d06",
+    "section": "section-04-directions",
+    "cantonese": "zyun3 wan4",
+    "english": "Turn around / U-turn",
+    "chinese": "轉彎"
+  },
+  {
+    "id": "d07",
+    "section": "section-04-directions",
+    "cantonese": "hai2 go3 go3 zau6 hai6",
+    "english": "It's over there",
+    "chinese": "喺嗰個就係"
+  },
+  {
+    "id": "d08",
+    "section": "section-04-directions",
+    "cantonese": "gei2 yun4?",
+    "english": "How far is it?",
+    "chinese": "幾遠？"
+  },
+  {
+    "id": "d09",
+    "section": "section-04-directions",
+    "cantonese": "saai3 zau2",
+    "english": "All the way straight",
+    "chinese": "晒行"
+  },
+  {
+    "id": "d10",
+    "section": "section-04-directions",
+    "cantonese": "m4 goi1, hai2 ni1 dou6 ting4",
+    "english": "Please stop here",
+    "chinese": "唔該，喺呢度停"
+  },
+  {
+    "id": "t01",
+    "section": "section-05-time",
+    "cantonese": "gam1 jat6",
+    "english": "Today",
+    "chinese": "今日"
+  },
+  {
+    "id": "t02",
+    "section": "section-05-time",
+    "cantonese": "ting1 jat6",
+    "english": "Tomorrow",
+    "chinese": "聽日"
+  },
+  {
+    "id": "t03",
+    "section": "section-05-time",
+    "cantonese": "cam4 jat6",
+    "english": "Yesterday",
+    "chinese": "尋日"
+  },
+  {
+    "id": "t04",
+    "section": "section-05-time",
+    "cantonese": "haa6 go3 sing1 kei4",
+    "english": "Next week",
+    "chinese": "下個星期"
+  },
+  {
+    "id": "t05",
+    "section": "section-05-time",
+    "cantonese": "soeng6 go3 jyut6",
+    "english": "Last month",
+    "chinese": "上個月"
+  },
+  {
+    "id": "t06",
+    "section": "section-05-time",
+    "cantonese": "nin4",
+    "english": "Year",
+    "chinese": "年"
+  },
+  {
+    "id": "t07",
+    "section": "section-05-time",
+    "cantonese": "si4 gan3",
+    "english": "Time",
+    "chinese": "時間"
+  },
+  {
+    "id": "t08",
+    "section": "section-05-time",
+    "cantonese": "jat1 zan2",
+    "english": "A while / A moment",
+    "chinese": "一陣"
+  },
+  {
+    "id": "t09",
+    "section": "section-05-time",
+    "cantonese": "hou2 noi6",
+    "english": "A long time",
+    "chinese": "好耐"
+  },
+  {
+    "id": "t10",
+    "section": "section-05-time",
+    "cantonese": "ci4 di1",
+    "english": "Later",
+    "chinese": "遲啲"
+  },
+  {
+    "id": "t11",
+    "section": "section-05-time",
+    "cantonese": "zou2 di1",
+    "english": "Earlier",
+    "chinese": "早啲"
+  },
+  {
+    "id": "t12",
+    "section": "section-05-time",
+    "cantonese": "joek3 di1",
+    "english": "A bit earlier / Sooner",
+    "chinese": "約啲"
+  },
+  {
+    "id": "t13",
+    "section": "section-05-time",
+    "cantonese": "m4 goi1, deng2 deng2",
+    "english": "Wait a moment, please",
+    "chinese": "唔該，等等"
+  },
+  {
+    "id": "e01",
+    "section": "section-06-emergency",
+    "cantonese": "caa4 dang1!",
+    "english": "Wait! / Stop!",
+    "chinese": "查停！"
+  },
+  {
+    "id": "e02",
+    "section": "section-06-emergency",
+    "cantonese": "m4 goi1, gau3 ming6 aa3!",
+    "english": "Help! (literally \"save my life\")",
+    "chinese": "唔該，救命呀！"
+  },
+  {
+    "id": "e03",
+    "section": "section-06-emergency",
+    "cantonese": "ging2 caat1",
+    "english": "Police",
+    "chinese": "警察"
+  },
+  {
+    "id": "e04",
+    "section": "section-06-emergency",
+    "cantonese": "fo3 ce1",
+    "english": "Fire truck",
+    "chinese": "消防車"
+  },
+  {
+    "id": "e05",
+    "section": "section-06-emergency",
+    "cantonese": "ji1 sang1",
+    "english": "Doctor",
+    "chinese": "醫生"
+  },
+  {
+    "id": "e06",
+    "section": "section-06-emergency",
+    "cantonese": "ji1 yuen2",
+    "english": "Hospital",
+    "chinese": "醫院"
+  },
+  {
+    "id": "e07",
+    "section": "section-06-emergency",
+    "cantonese": "ngo5 jat1 go3 jan4",
+    "english": "I'm alone / by myself",
+    "chinese": "我一個人"
+  },
+  {
+    "id": "e08",
+    "section": "section-06-emergency",
+    "cantonese": "ngo5 sat1 zo2 aa3",
+    "english": "I'm lost",
+    "chinese": "我失咗呀"
+  },
+  {
+    "id": "e09",
+    "section": "section-06-emergency",
+    "cantonese": "ngo5 hai2 dou6",
+    "english": "I'm here",
+    "chinese": "我喺度"
+  },
+  {
+    "id": "e10",
+    "section": "section-06-emergency",
+    "cantonese": "m4 goi1, daa2 go3 din6 waa2",
+    "english": "Please make a phone call",
+    "chinese": "唔該，打個電話"
+  },
+  {
+    "id": "e11",
+    "section": "section-06-emergency",
+    "cantonese": "ngo5 m4 sik1 gong2 jing1 man2",
+    "english": "I don't speak English",
+    "chinese": "我唔識講英文"
+  },
+  {
+    "id": "fam01",
+    "section": "section-07-family",
+    "cantonese": "baa1 baa1",
+    "english": "Dad",
+    "chinese": "爸爸"
+  },
+  {
+    "id": "fam02",
+    "section": "section-07-family",
+    "cantonese": "maa1 maa1",
+    "english": "Mom",
+    "chinese": "媽媽"
+  },
+  {
+    "id": "fam03",
+    "section": "section-07-family",
+    "cantonese": "go1 go1",
+    "english": "Older brother",
+    "chinese": "哥哥"
+  },
+  {
+    "id": "fam04",
+    "section": "section-07-family",
+    "cantonese": "ze2 ze2",
+    "english": "Older sister",
+    "chinese": "姐姐"
+  },
+  {
+    "id": "fam05",
+    "section": "section-07-family",
+    "cantonese": "dai6 dai6",
+    "english": "Younger brother",
+    "chinese": "弟弟"
+  },
+  {
+    "id": "fam06",
+    "section": "section-07-family",
+    "cantonese": "mui6 mui6",
+    "english": "Younger sister",
+    "chinese": "妹妹"
+  },
+  {
+    "id": "fam07",
+    "section": "section-07-family",
+    "cantonese": "po4 po4",
+    "english": "Grandmother (maternal)",
+    "chinese": "婆婆"
+  },
+  {
+    "id": "fam08",
+    "section": "section-07-family",
+    "cantonese": "gung1 gung1",
+    "english": "Grandfather (maternal)",
+    "chinese": "公公"
+  },
+  {
+    "id": "fam09",
+    "section": "section-07-family",
+    "cantonese": "tou4 zou6",
+    "english": "Boss",
+    "chinese": "老闆"
+  },
+  {
+    "id": "fam10",
+    "section": "section-07-family",
+    "cantonese": "pang4 jau5",
+    "english": "Friend",
+    "chinese": "朋友"
+  },
+  {
+    "id": "fam11",
+    "section": "section-07-family",
+    "cantonese": "syu1 sang1",
+    "english": "Teacher",
+    "chinese": "先生"
+  },
+  {
+    "id": "adj01",
+    "section": "section-08-adjectives",
+    "cantonese": "hou2",
+    "english": "Good",
+    "chinese": "好"
+  },
+  {
+    "id": "adj02",
+    "section": "section-08-adjectives",
+    "cantonese": "waai6",
+    "english": "Bad",
+    "chinese": "壞"
+  },
+  {
+    "id": "adj03",
+    "section": "section-08-adjectives",
+    "cantonese": "daai6",
+    "english": "Big",
+    "chinese": "大"
+  },
+  {
+    "id": "adj04",
+    "section": "section-08-adjectives",
+    "cantonese": "sai3",
+    "english": "Small",
+    "chinese": "細"
+  },
+  {
+    "id": "adj05",
+    "section": "section-08-adjectives",
+    "cantonese": "leng3",
+    "english": "Beautiful / Pretty",
+    "chinese": "靚"
+  },
+  {
+    "id": "adj06",
+    "section": "section-08-adjectives",
+    "cantonese": "caau4",
+    "english": "Ugly / Stinky (colloquial)",
+    "chinese": "臭"
+  },
+  {
+    "id": "adj07",
+    "section": "section-08-adjectives",
+    "cantonese": "jam4",
+    "english": "Hot (weather/food)",
+    "chinese": "熱"
+  },
+  {
+    "id": "adj08",
+    "section": "section-08-adjectives",
+    "cantonese": "laang5",
+    "english": "Cold",
+    "chinese": "冷"
+  },
+  {
+    "id": "adj09",
+    "section": "section-08-adjectives",
+    "cantonese": "hoeng1",
+    "english": "Fragrant",
+    "chinese": "香"
+  },
+  {
+    "id": "adj10",
+    "section": "section-08-adjectives",
+    "cantonese": "naam4 / taan2",
+    "english": "Difficult / Easy",
+    "chinese": "難/易"
+  },
+  {
+    "id": "adj11",
+    "section": "section-08-adjectives",
+    "cantonese": "gwai3",
+    "english": "Expensive",
+    "chinese": "貴"
+  },
+  {
+    "id": "adj12",
+    "section": "section-08-adjectives",
+    "cantonese": "peng4",
+    "english": "Cheap",
+    "chinese": "平"
+  },
+  {
+    "id": "adj13",
+    "section": "section-08-adjectives",
+    "cantonese": "sun1",
+    "english": "New",
+    "chinese": "新"
+  },
+  {
+    "id": "adj14",
+    "section": "section-08-adjectives",
+    "cantonese": "gau6",
+    "english": "Old (things)",
+    "chinese": "舊"
+  },
+  {
+    "id": "v01",
+    "section": "section-09-verbs",
+    "cantonese": "heoi3",
+    "english": "Go",
+    "chinese": "去"
+  },
+  {
+    "id": "v02",
+    "section": "section-09-verbs",
+    "cantonese": "lai4",
+    "english": "Come",
+    "chinese": "嚟"
+  },
+  {
+    "id": "v03",
+    "section": "section-09-verbs",
+    "cantonese": "zou6",
+    "english": "Do / Make",
+    "chinese": "做"
+  },
+  {
+    "id": "v04",
+    "section": "section-09-verbs",
+    "cantonese": "sik6",
+    "english": "Eat",
+    "chinese": "食"
+  },
+  {
+    "id": "v05",
+    "section": "section-09-verbs",
+    "cantonese": "jam2",
+    "english": "Drink",
+    "chinese": "飲"
+  },
+  {
+    "id": "v06",
+    "section": "section-09-verbs",
+    "cantonese": "tai2",
+    "english": "See / Watch",
+    "chinese": "睇"
+  },
+  {
+    "id": "v07",
+    "section": "section-09-verbs",
+    "cantonese": "teng1",
+    "english": "Listen / Hear",
+    "chinese": "聽"
+  },
+  {
+    "id": "v08",
+    "section": "section-09-verbs",
+    "cantonese": "gong2",
+    "english": "Speak",
+    "chinese": "講"
+  },
+  {
+    "id": "v09",
+    "section": "section-09-verbs",
+    "cantonese": "sik1",
+    "english": "Know / Can",
+    "chinese": "識"
+  },
+  {
+    "id": "v10",
+    "section": "section-09-verbs",
+    "cantonese": "m4 sik1",
+    "english": "Don't know / Can't",
+    "chinese": "唔識"
+  },
+  {
+    "id": "v11",
+    "section": "section-09-verbs",
+    "cantonese": "maai5",
+    "english": "Buy",
+    "chinese": "買"
+  },
+  {
+    "id": "v12",
+    "section": "section-09-verbs",
+    "cantonese": "maai6",
+    "english": "Sell",
+    "chinese": "賣"
+  },
+  {
+    "id": "v13",
+    "section": "section-09-verbs",
+    "cantonese": "wan2",
+    "english": "Look for / Find",
+    "chinese": "搵"
+  },
+  {
+    "id": "v14",
+    "section": "section-09-verbs",
+    "cantonese": "fan3",
+    "english": "Sleep",
+    "chinese": "瞓"
+  },
+  {
+    "id": "v15",
+    "section": "section-09-verbs",
+    "cantonese": "hei2 san1",
+    "english": "Wake up",
+    "chinese": "起身"
+  },
+  {
+    "id": "m01",
+    "section": "section-10-measure-words",
+    "cantonese": "go3",
+    "usage": "General items / people",
+    "example": "jat1 go3 jan4 (one person)",
+    "english": "General items / people",
+    "notes": "Example: jat1 go3 jan4 (one person)",
+    "chinese": "個"
+  },
+  {
+    "id": "m02",
+    "section": "section-10-measure-words",
+    "cantonese": "bun2",
+    "usage": "Books / magazines",
+    "example": "jat1 bun2 syu1 (one book)",
+    "english": "Books / magazines",
+    "notes": "Example: jat1 bun2 syu1 (one book)",
+    "chinese": "本"
+  },
+  {
+    "id": "m03",
+    "section": "section-10-measure-words",
+    "cantonese": "bou6",
+    "usage": "Cars / machines",
+    "example": "jat1 bou6 ce1 (one car)",
+    "english": "Cars / machines",
+    "notes": "Example: jat1 bou6 ce1 (one car)",
+    "chinese": "部"
+  },
+  {
+    "id": "m04",
+    "section": "section-10-measure-words",
+    "cantonese": "ze1",
+    "usage": "Cups / glasses",
+    "example": "jat1 ze1 caa4 (one cup of tea)",
+    "english": "Cups / glasses",
+    "notes": "Example: jat1 ze1 caa4 (one cup of tea)",
+    "chinese": "杯"
+  },
+  {
+    "id": "m05",
+    "section": "section-10-measure-words",
+    "cantonese": "ga3",
+    "usage": "Clothes / jackets",
+    "example": "jat1 ga3 lau6 (one dress)",
+    "english": "Clothes / jackets",
+    "notes": "Example: jat1 ga3 lau6 (one dress)",
+    "chinese": "件"
+  },
+  {
+    "id": "m06",
+    "section": "section-10-measure-words",
+    "cantonese": "tiu4",
+    "usage": "Long objects (roads, fish, pants)",
+    "example": "jat1 tiu4 ji5 (one fish)",
+    "english": "Long objects (roads, fish, pants)",
+    "notes": "Example: jat1 tiu4 ji5 (one fish)",
+    "chinese": "條"
+  },
+  {
+    "id": "m07",
+    "section": "section-10-measure-words",
+    "cantonese": "faai3",
+    "usage": "Pieces / slices",
+    "example": "jat1 faai3 min6 baau1 (one piece of bread)",
+    "english": "Pieces / slices",
+    "notes": "Example: jat1 faai3 min6 baau1 (one piece of bread)",
+    "chinese": "塊"
+  },
+  {
+    "id": "s01",
+    "section": "section-11-slang",
+    "cantonese": "hou2 ci4 aa3!",
+    "english": "That's crazy! / Awesome!",
+    "chinese": "好嘢呀！"
+  },
+  {
+    "id": "s02",
+    "section": "section-11-slang",
+    "cantonese": "bei2 min6 aa3?",
+    "english": "Are you serious? / For real?",
+    "chinese": "俾面呀？"
+  },
+  {
+    "id": "s03",
+    "section": "section-11-slang",
+    "cantonese": "m4 ho2 ji3 — hai6 faan1",
+    "english": "Not allowed — it's against the rules",
+    "chinese": "唔可以 — 係犯"
+  },
+  {
+    "id": "s04",
+    "section": "section-11-slang",
+    "cantonese": "go3 sam1",
+    "english": "Careful / Mindful",
+    "chinese": "小心"
+  },
+  {
+    "id": "s05",
+    "section": "section-11-slang",
+    "cantonese": "me1 je5 aa3?",
+    "english": "What the...? (casual)",
+    "chinese": "乜嘢呀？"
+  },
+  {
+    "id": "s06",
+    "section": "section-11-slang",
+    "cantonese": "hai6 lo4!",
+    "english": "Exactly! / Right!",
+    "chinese": "係囉！"
+  },
+  {
+    "id": "s07",
+    "section": "section-11-slang",
+    "cantonese": "m4 hai6 wa6!",
+    "english": "No way! / Really?!",
+    "chinese": "唔係話！"
+  },
+  {
+    "id": "s08",
+    "section": "section-11-slang",
+    "cantonese": "hou2 m4 hou2 wan2?",
+    "english": "Is it fun?",
+    "chinese": "好唔好玩？"
+  },
+  {
+    "id": "s09",
+    "section": "section-11-slang",
+    "cantonese": "gau3 si3",
+    "english": "Annoying / Troublesome",
+    "chinese": "搞事"
+  },
+  {
+    "id": "s10",
+    "section": "section-11-slang",
+    "cantonese": "dim2 gaai2 gam3 gwai3?",
+    "english": "Why is it so expensive?",
+    "chinese": "點解咁貴？"
+  },
+  {
+    "id": "n01",
+    "section": "section-12-numbers",
+    "cantonese": "sap6 jat1",
+    "english": "11",
+    "chinese": "十一"
+  },
+  {
+    "id": "n02",
+    "section": "section-12-numbers",
+    "cantonese": "sap6 yi6",
+    "english": "12",
+    "chinese": "十二"
+  },
+  {
+    "id": "n03",
+    "section": "section-12-numbers",
+    "cantonese": "sap6 saam1",
+    "english": "13",
+    "chinese": "十三"
+  },
+  {
+    "id": "n04",
+    "section": "section-12-numbers",
+    "cantonese": "sap6 sei3",
+    "english": "14",
+    "chinese": "十四"
+  },
+  {
+    "id": "n05",
+    "section": "section-12-numbers",
+    "cantonese": "sap6 ng5",
+    "english": "15",
+    "chinese": "十五"
+  },
+  {
+    "id": "n06",
+    "section": "section-12-numbers",
+    "cantonese": "sap6 luk6",
+    "english": "16",
+    "chinese": "十六"
+  },
+  {
+    "id": "n07",
+    "section": "section-12-numbers",
+    "cantonese": "sap6 cat1",
+    "english": "17",
+    "chinese": "十七"
+  },
+  {
+    "id": "n08",
+    "section": "section-12-numbers",
+    "cantonese": "sap6 baat3",
+    "english": "18",
+    "chinese": "十八"
+  },
+  {
+    "id": "n09",
+    "section": "section-12-numbers",
+    "cantonese": "sap6 gau2",
+    "english": "19",
+    "chinese": "十九"
+  },
+  {
+    "id": "n10",
+    "section": "section-12-numbers",
+    "cantonese": "yi6 sap6",
+    "english": "20",
+    "chinese": "二十"
+  },
+  {
+    "id": "n11",
+    "section": "section-12-numbers",
+    "cantonese": "saam1 sap6",
+    "english": "30",
+    "chinese": "三十"
+  },
+  {
+    "id": "n12",
+    "section": "section-12-numbers",
+    "cantonese": "jat1 baak3",
+    "english": "100",
+    "chinese": "一百"
+  },
+  {
+    "id": "n13",
+    "section": "section-12-numbers",
+    "cantonese": "jat1 cin1",
+    "english": "1,000",
+    "chinese": "一千"
+  },
+  {
+    "id": "n14",
+    "section": "section-12-numbers",
+    "cantonese": "jat1 maan6",
+    "english": "10,000",
+    "chinese": "一萬"
+  },
+  {
+    "id": "dlg01",
+    "section": "section-13-dialogues",
+    "cantonese": "nei5 hou2! hou2 noi6 mou5 gin3!",
+    "english": "Hello! Long time no see!",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg02",
+    "section": "section-13-dialogues",
+    "cantonese": "hai6 aa3! nei5 zeoi3 gan6 dim2 aa3?",
+    "english": "Yeah! How are you lately?",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg03",
+    "section": "section-13-dialogues",
+    "cantonese": "hou2 ho2, nei5 ne1?",
+    "english": "I'm fine, and you?",
+    "notes": "Speaker: A",
+    "chinese": "好好，你呢？"
+  },
+  {
+    "id": "dlg04",
+    "section": "section-13-dialogues",
+    "cantonese": "ngo5 dou1 hai6 hou2 ho2.",
+    "english": "I'm also doing well.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg05",
+    "section": "section-13-dialogues",
+    "cantonese": "nei5 sik1 m4 sik1 gong2 jing1 man2?",
+    "english": "Do you know how to speak English?",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg06",
+    "section": "section-13-dialogues",
+    "cantonese": "siu2 siu2 laa1.",
+    "english": "Just a little bit.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg07",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 goi1, ci4 di1 gin3!",
+    "english": "Thanks, see you later!",
+    "notes": "Speaker: A",
+    "chinese": "唔該，遲啲見"
+  },
+  {
+    "id": "dlg08",
+    "section": "section-13-dialogues",
+    "cantonese": "baai1 baai3!",
+    "english": "Bye-bye!",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg09",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 goi1! ngo5 soeng2 dim2 caan1.",
+    "english": "Excuse me! I'd like to order.",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg10",
+    "section": "section-13-dialogues",
+    "cantonese": "lei5 soeng2 sik6 me1 je5?",
+    "english": "What would you like to eat?",
+    "notes": "Speaker: B",
+    "chinese": "你想食乜嘢？"
+  },
+  {
+    "id": "dlg11",
+    "section": "section-13-dialogues",
+    "cantonese": "jat1 bui1 jit6 naai5 caa4, m4 goi1.",
+    "english": "One cup of hot milk tea, please.",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg12",
+    "section": "section-13-dialogues",
+    "cantonese": "siu2 tim1? siu2 bing1?",
+    "english": "Less sugar? Less ice?",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg13",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 goi1, siu2 tim1, m4 jiu3 lau4.",
+    "english": "Less sugar please, no MSG.",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg14",
+    "section": "section-13-dialogues",
+    "cantonese": "hou2, hai6 m4 hai6 ji1 go3?",
+    "english": "Okay, is that all?",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg15",
+    "section": "section-13-dialogues",
+    "cantonese": "hai6 aa3, gei2 cin2 aa6?",
+    "english": "Yes, how much is it?",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg16",
+    "section": "section-13-dialogues",
+    "cantonese": "saam1 sap6 gau2 man1.",
+    "english": "Thirty-nine dollars.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg17",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 goi1, ngo5 daa2 baau1.",
+    "english": "Thanks, I'll take it to go.",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg18",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 hou2 ji3 si1, hai2 bin1 dou6 hai6 MTR?",
+    "english": "Excuse me, where is the MTR?",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg19",
+    "section": "section-13-dialogues",
+    "cantonese": "zik1 zau2, sau2 zau2, hai2 go3 go3 zau6 hai6.",
+    "english": "Go straight, turn left, it's over there.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg20",
+    "section": "section-13-dialogues",
+    "cantonese": "gei2 yun4 aa3?",
+    "english": "How far is it?",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg21",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 hai6 hou2 yun4, saai3 zau2, 5 fan1 zung1.",
+    "english": "Not very far, walk straight, 5 minutes.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg22",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 goi1 saai3!",
+    "english": "Thank you very much!",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg23",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 sai2 haak3 hei3, ci4 di1 gin3.",
+    "english": "You're welcome, see you later.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg24",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 goi1, ji1 go3 gei2 cin2 aa6?",
+    "english": "Excuse me, how much is this one?",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg25",
+    "section": "section-13-dialogues",
+    "cantonese": "saam1 baak3 man1.",
+    "english": "Three hundred dollars.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg26",
+    "section": "section-13-dialogues",
+    "cantonese": "waa6, gam3 gwai3! peng4 di1 laa1!",
+    "english": "Wow, that's expensive! Cheaper please!",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg27",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 ho2 ji3 si1, ji1 hai6 zeoi3 peng4 gaa3 laa3.",
+    "english": "Sorry, this is the cheapest already.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg28",
+    "section": "section-13-dialogues",
+    "cantonese": "jau5 mou5 zit3 aa6?",
+    "english": "Are there any discounts?",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg29",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 goi1, m4 ho2 ji3 si1, m4 hai6 hou2 ji3 si1.",
+    "english": "Sorry, I'm afraid not.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg30",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 goi1 saai3, ngo5 ling6 waan2 gau3 sin1.",
+    "english": "Thank you, I'll look around first.",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg31",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 goi1, gau3 ming6 aa3! ngo5 sat1 zo2 aa3!",
+    "english": "Help! I'm lost!",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg32",
+    "section": "section-13-dialogues",
+    "cantonese": "dim2 gaai2? nei5 hai2 bin1 dou6 aa3?",
+    "english": "Why? Where are you?",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg33",
+    "section": "section-13-dialogues",
+    "cantonese": "ngo5 m4 sik1 gong2 jing1 man2.",
+    "english": "I don't speak English.",
+    "notes": "Speaker: A",
+    "chinese": "我唔識講英文"
+  },
+  {
+    "id": "dlg34",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 gan2, hai2 bin1 dou6 nei5 zeoi3 gan6?",
+    "english": "Don't worry, where are you right now?",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg35",
+    "section": "section-13-dialogues",
+    "cantonese": "ngo5 hai2 ding3 nei6 gung1 jyun2 gan1 ceng4.",
+    "english": "I'm near the MTR station.",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg36",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 goi1, deng2 deng2, ngo5 lai4 wan2 nei5.",
+    "english": "Wait a moment, I'll come find you.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg37",
+    "section": "section-13-dialogues",
+    "cantonese": "do1 ze6 saai3!",
+    "english": "Thank you so much!",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg38",
+    "section": "section-13-dialogues",
+    "cantonese": "nei5 soeng2 jam2 me1 je5?",
+    "english": "What would you like to drink?",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg39",
+    "section": "section-13-dialogues",
+    "cantonese": "jat1 bui1 beng2 caa4, siu2 tim1, m4 goi1.",
+    "english": "One iced milk tea, less sugar please.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg40",
+    "section": "section-13-dialogues",
+    "cantonese": "ngo5 jiu3 jat1 bui1 kei4 ze2 lai4.",
+    "english": "I'll have one lemon tea.",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg41",
+    "section": "section-13-dialogues",
+    "cantonese": "hou2 ci4 aa3! hai2 ni1 dou6 hou2 leng3!",
+    "english": "Awesome! It's beautiful here!",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg42",
+    "section": "section-13-dialogues",
+    "cantonese": "hai6 aa3, hou2 noi6 mou5 gin3?",
+    "english": "Yeah, long time no see?",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "dlg43",
+    "section": "section-13-dialogues",
+    "cantonese": "hai6 aa3, ne1 ci3 ngo5 maai4 daan1.",
+    "english": "Yeah, this time I'll pay.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "dlg44",
+    "section": "section-13-dialogues",
+    "cantonese": "m4 goi1 saai3, haa3 ci3 gin3!",
+    "english": "Thank you so much, see you next time!",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "taxi01",
+    "section": "section-14-taxi",
+    "cantonese": "m4 goi1, hou2 noi6 dang2!",
+    "english": "Excuse me, sorry for the long wait!",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "taxi02",
+    "section": "section-14-taxi",
+    "cantonese": "m4 sai2 haak3 hei3, heoi3 bin1 dou6 aa3?",
+    "english": "You're welcome, where to?",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "taxi03",
+    "section": "section-14-taxi",
+    "cantonese": "m4 goi1, heoi3 Mong4 Gok2, hou2 mang4?",
+    "english": "Please go to Mong Kok, is it far?",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "taxi04",
+    "section": "section-14-taxi",
+    "cantonese": "m4 hai6 hou2 yun4, saai3 zau2 sap6 fan1 zung1.",
+    "english": "Not very far, straight for 10 minutes.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "taxi05",
+    "section": "section-14-taxi",
+    "cantonese": "m4 goi1 saai3.",
+    "english": "Thank you.",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "taxi06",
+    "section": "section-14-taxi",
+    "cantonese": "m4 goi1, hai2 cin4 bin1 zau6 hai6 Tsim4 Saai2 Tsui2.",
+    "english": "Please, ahead is Tsim Sha Tsui.",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "taxi07",
+    "section": "section-14-taxi",
+    "cantonese": "zik1 zau2, sau2 zau2, hai2 go3 go3 ting4?",
+    "english": "Go straight, turn left, stop over there?",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "taxi08",
+    "section": "section-14-taxi",
+    "cantonese": "hai6 aa3, hai2 ni1 dou6 ting4, m4 goi1.",
+    "english": "Yes, stop here please.",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "taxi09",
+    "section": "section-14-taxi",
+    "cantonese": "hou2, gei2 cin2 aa6?",
+    "english": "Okay, how much?",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "taxi10",
+    "section": "section-14-taxi",
+    "cantonese": "sei3 sap6 ng5 man1.",
+    "english": "Forty-five dollars.",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "taxi11",
+    "section": "section-14-taxi",
+    "cantonese": "ni1 hai6 cin2, m4 goi1, ci4 di1 gin3.",
+    "english": "Here's the money, thanks, see you later.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "taxi12",
+    "section": "section-14-taxi",
+    "cantonese": "m4 goi1, ho2 m4 ho2 ji3 dang2 ngo5 jat1 zan2?",
+    "english": "Excuse me, can you wait for me a moment?",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "taxi13",
+    "section": "section-14-taxi",
+    "cantonese": "hou2 aa3, dan6 hai6 m4 hou2 taai3 noi6 aa3.",
+    "english": "Okay, but don't be too long.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "taxi14",
+    "section": "section-14-taxi",
+    "cantonese": "m4 goi1 saai3, ngo5 hai6 faai3 faai3.",
+    "english": "Thank you, I'll be quick.",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "taxi15",
+    "section": "section-14-taxi",
+    "cantonese": "m4 gan2, ngo5 hai2 ni1 dou6 dang2 nei5.",
+    "english": "No rush, I'll wait here for you.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "taxi16",
+    "section": "section-14-taxi",
+    "cantonese": "m4 goi1, hai2 bin1 dou6 haa2 ce1?",
+    "english": "Excuse me, where can I get out?",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "taxi17",
+    "section": "section-14-taxi",
+    "cantonese": "m4 ho2 ji3 si1, hou2 noi6 caa1, coeng4 cou2 gan2.",
+    "english": "Sorry, heavy traffic, it's rush hour.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "taxi18",
+    "section": "section-14-taxi",
+    "cantonese": "m4 gan2, ngo5 m4 gan2 si4 gan3.",
+    "english": "No rush, I'm not in a hurry.",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "taxi19",
+    "section": "section-14-taxi",
+    "cantonese": "m4 goi1, hai2 ni1 dou6 haa2 ce1 laa1.",
+    "english": "Please get out here.",
+    "notes": "Speaker: B"
+  },
+  {
+    "id": "taxi20",
+    "section": "section-14-taxi",
+    "cantonese": "hou2, gei2 do1 cin2 aa3?",
+    "english": "Okay, how much?",
+    "notes": "Speaker: A"
+  },
+  {
+    "id": "taxi21",
+    "section": "section-14-taxi",
+    "cantonese": "baat3 sap6 man1, m4 goi1.",
+    "english": "Eighty dollars, thanks.",
+    "notes": "Speaker: B"
+  }
+]

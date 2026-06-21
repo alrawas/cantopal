@@ -1,0 +1,80 @@
+[
+  {
+    "id": "p44",
+    "section": "section-05-time",
+    "cantonese": "gam1 jat6",
+    "english": "Today"
+  },
+  {
+    "id": "p45",
+    "section": "section-05-time",
+    "cantonese": "ting1 jat6",
+    "english": "Tomorrow"
+  },
+  {
+    "id": "p46",
+    "section": "section-05-time",
+    "cantonese": "cam4 jat6",
+    "english": "Yesterday"
+  },
+  {
+    "id": "p47",
+    "section": "section-05-time",
+    "cantonese": "haa6 go3 sing1 kei4",
+    "english": "Next week"
+  },
+  {
+    "id": "p48",
+    "section": "section-05-time",
+    "cantonese": "soeng6 go3 jyut6",
+    "english": "Last month"
+  },
+  {
+    "id": "p49",
+    "section": "section-05-time",
+    "cantonese": "nin4",
+    "english": "Year"
+  },
+  {
+    "id": "p50",
+    "section": "section-05-time",
+    "cantonese": "si4 gan3",
+    "english": "Time"
+  },
+  {
+    "id": "p51",
+    "section": "section-05-time",
+    "cantonese": "jat1 zan2",
+    "english": "A while / A moment"
+  },
+  {
+    "id": "p52",
+    "section": "section-05-time",
+    "cantonese": "hou2 noi6",
+    "english": "A long time"
+  },
+  {
+    "id": "p53",
+    "section": "section-05-time",
+    "cantonese": "ci4 di1",
+    "english": "Later"
+  },
+  {
+    "id": "p54",
+    "section": "section-05-time",
+    "cantonese": "zou2 di1",
+    "english": "Earlier"
+  },
+  {
+    "id": "p55",
+    "section": "section-05-time",
+    "cantonese": "joek3 di1",
+    "english": "A bit earlier / Sooner"
+  },
+  {
+    "id": "p56",
+    "section": "section-05-time",
+    "cantonese": "m4 goi1, deng2 deng2",
+    "english": "Wait a moment, please"
+  }
+]

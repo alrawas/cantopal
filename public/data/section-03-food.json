@@ -1,0 +1,80 @@
+[
+  {
+    "id": "p21",
+    "section": "section-03-food",
+    "cantonese": "ngo5 soeng2 dim2 caan1",
+    "english": "I'd like to order"
+  },
+  {
+    "id": "p22",
+    "section": "section-03-food",
+    "cantonese": "lei5 soeng2 sik6 me1 je5?",
+    "english": "What would you like to eat?"
+  },
+  {
+    "id": "p23",
+    "section": "section-03-food",
+    "cantonese": "jam2 me1 je5?",
+    "english": "What would you like to drink?"
+  },
+  {
+    "id": "p24",
+    "section": "section-03-food",
+    "cantonese": "m4 goi1, beng2 caa4",
+    "english": "Iced milk tea, please"
+  },
+  {
+    "id": "p25",
+    "section": "section-03-food",
+    "cantonese": "jat1 bui1 kei4 ze2 lai4",
+    "english": "One cup of lemon tea"
+  },
+  {
+    "id": "p26",
+    "section": "section-03-food",
+    "cantonese": "siu2 tim1",
+    "english": "Less sugar"
+  },
+  {
+    "id": "p27",
+    "section": "section-03-food",
+    "cantonese": "siu2 bing1",
+    "english": "Less ice"
+  },
+  {
+    "id": "p28",
+    "section": "section-03-food",
+    "cantonese": "m4 goi1, m4 jiu3 lau4",
+    "english": "No MSG, please"
+  },
+  {
+    "id": "p29",
+    "section": "section-03-food",
+    "cantonese": "hai2 bin1 dou6 maai4 daan1?",
+    "english": "Where do I pay?"
+  },
+  {
+    "id": "p30",
+    "section": "section-03-food",
+    "cantonese": "ho2 m4 ho2 ji3 daa2 baau1?",
+    "english": "Can I get this to go?"
+  },
+  {
+    "id": "p31",
+    "section": "section-03-food",
+    "cantonese": "ngo5 ji6 ging1 sik6 baau2 zo2",
+    "english": "I'm already full"
+  },
+  {
+    "id": "p32",
+    "section": "section-03-food",
+    "cantonese": "hou2 mei5 aa3!",
+    "english": "So delicious!"
+  },
+  {
+    "id": "p33",
+    "section": "section-03-food",
+    "cantonese": "m4 hai6 hou2 ho2 mei5",
+    "english": "Not very tasty"
+  }
+]

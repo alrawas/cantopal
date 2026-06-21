@@ -1,0 +1,62 @@
+[
+  {
+    "id": "p1",
+    "section": "section-01-question-words",
+    "cantonese": "me1 je5?",
+    "english": "What?"
+  },
+  {
+    "id": "p2",
+    "section": "section-01-question-words",
+    "cantonese": "bin1 go3?",
+    "english": "Who?"
+  },
+  {
+    "id": "p3",
+    "section": "section-01-question-words",
+    "cantonese": "bin1 dou6?",
+    "english": "Where?"
+  },
+  {
+    "id": "p4",
+    "section": "section-01-question-words",
+    "cantonese": "gei2 si4?",
+    "english": "When?"
+  },
+  {
+    "id": "p5",
+    "section": "section-01-question-words",
+    "cantonese": "dim2 gaai2?",
+    "english": "Why?"
+  },
+  {
+    "id": "p6",
+    "section": "section-01-question-words",
+    "cantonese": "dim2 joeng2? / dim2?",
+    "english": "How?"
+  },
+  {
+    "id": "p7",
+    "section": "section-01-question-words",
+    "cantonese": "gei2 do1?",
+    "english": "How many / How much?"
+  },
+  {
+    "id": "p8",
+    "section": "section-01-question-words",
+    "cantonese": "hai6 m4 hai6?",
+    "english": "Is it? / Right? (tag question)"
+  },
+  {
+    "id": "p9",
+    "section": "section-01-question-words",
+    "cantonese": "hou2 m4 hou2?",
+    "english": "Is it good? / Okay?"
+  },
+  {
+    "id": "p10",
+    "section": "section-01-question-words",
+    "cantonese": "sik1 m4 sik1?",
+    "english": "Do you know? / Can you?"
+  }
+]

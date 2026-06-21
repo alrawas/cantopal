@@ -1,0 +1,62 @@
+[
+  {
+    "id": "p11",
+    "section": "section-02-greetings",
+    "cantonese": "man5 si6 aa3?",
+    "english": "How are you? (formal)"
+  },
+  {
+    "id": "p12",
+    "section": "section-02-greetings",
+    "cantonese": "nei5 hou2 maa3?",
+    "english": "How are you? (casual)"
+  },
+  {
+    "id": "p13",
+    "section": "section-02-greetings",
+    "cantonese": "hou2 ho2, nei5 ne1?",
+    "english": "I'm fine, and you?"
+  },
+  {
+    "id": "p14",
+    "section": "section-02-greetings",
+    "cantonese": "m4 goi1 sai3",
+    "english": "No need to thank / Don't mention it"
+  },
+  {
+    "id": "p15",
+    "section": "section-02-greetings",
+    "cantonese": "m4 hou2 ji3 si1, ngo5 zau6",
+    "english": "Sorry, I have to go"
+  },
+  {
+    "id": "p16",
+    "section": "section-02-greetings",
+    "cantonese": "jing4 m4 jing4?",
+    "english": "Is that right? / Really?"
+  },
+  {
+    "id": "p17",
+    "section": "section-02-greetings",
+    "cantonese": "hai6 aa3",
+    "english": "Yes (soft/confirming)"
+  },
+  {
+    "id": "p18",
+    "section": "section-02-greetings",
+    "cantonese": "m4 hai6 aa3",
+    "english": "No (soft/denying)"
+  },
+  {
+    "id": "p19",
+    "section": "section-02-greetings",
+    "cantonese": "hai6 laa1",
+    "english": "Yes! (emphatic)"
+  },
+  {
+    "id": "p20",
+    "section": "section-02-greetings",
+    "cantonese": "m4 goi1, ci4 di1 gin3",
+    "english": "Thank you, see you later"
+  }
+]
