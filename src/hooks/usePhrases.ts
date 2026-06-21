@@ -9,7 +9,7 @@ export function usePhrases() {
 
   useEffect(() => {
     // Try to load built-in phrases from public/data/phrases.json
-    fetch('/data/phrases.json')
+    fetch(`${import.meta.env.BASE_URL}data/phrases.json`)
       .then(res => {
         if (!res.ok) throw new Error('Not found');
         return res.json();
